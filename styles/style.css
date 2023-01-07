@@ -214,6 +214,38 @@ button:hover{
  .sub-last-phone{
     color: #FFFFFF;
  }
+ .pre-icons{
+   margin-top: 10px;
+   display: flex;
+   gap: 10px;
+ }
+ .icons1{
+   background-image: url('../icons/fb.png');
+   height: 40px;
+   width: 40px;
+   /* background-color: #F15B22; */
+   background-position: center;
+   background-size: cover;
+
+}
+ .icons2{
+   background-image: url('../icons/twitter.jpg');
+   height: 40px;
+   width: 40px;
+   /* background-color: #F15B22; */
+   background-position: center;
+   background-size: cover;
+
+}
+ .icons3{
+   background-image: url('../icons/youtube.png');
+   height: 40px;
+   width: 40px;
+   /* background-color: #F15B22; */
+   background-position: center;
+   background-size: cover;
+
+}
 .sub-last-title2{
     color: #F8F8F8;
     font-weight: 400;
@@ -237,6 +269,5 @@ button:hover{
     margin-top: 20px;
     border-radius: 5px;
     font-weight: 500;
-
-
 }
+
