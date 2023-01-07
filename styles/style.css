@@ -62,11 +62,11 @@ button:hover{
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
+    margin-left: 100px;
  }
  .section1-two{
     width: 50%;
     height: 800px;
-    background-color: aqua;
     align-items: center;
     vertical-align: ;
  }
@@ -79,7 +79,15 @@ button:hover{
  }
  .section1-title{
     text-align: left;
+    margin: 20px 0;
  }
  .section1-describtion{
+    text-align: left;
+    margin: 20px 0;
+    color: #444343;
+ }
+ .section1-describtion2{
+    margin: 15px 0;
+    color: #444343;
     text-align: left;
  }
