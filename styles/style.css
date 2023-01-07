@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* header all styles */
+.header{
+    display: flex;
+    width: 100%;
+    height: 800px;
+    background-image: url('../images/banner/banner1.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.sub-header1{
+    width: 50%;
+    height: 800px;
+}
+.sub-header2{
+    width: 50%;
+    height: 800px;
+    background-color: blanchedalmond;
+    text-align: center;
+}
