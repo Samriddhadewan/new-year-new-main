@@ -223,27 +223,27 @@ button:hover{
    background-image: url('../icons/fb.png');
    height: 40px;
    width: 40px;
-   /* background-color: #F15B22; */
    background-position: center;
    background-size: cover;
+   cursor: pointer;
 
 }
  .icons2{
    background-image: url('../icons/twitter.jpg');
    height: 40px;
    width: 40px;
-   /* background-color: #F15B22; */
    background-position: center;
    background-size: cover;
+   cursor: pointer;
 
 }
  .icons3{
    background-image: url('../icons/youtube.png');
    height: 40px;
    width: 40px;
-   /* background-color: #F15B22; */
    background-position: center;
    background-size: cover;
+   cursor: pointer;
 
 }
 .sub-last-title2{
