@@ -91,3 +91,68 @@ button:hover{
     color: #444343;
     text-align: left;
  }
+ /* my plans style  */
+ .my-plans{
+    margin-top: 150px;
+    margin-bottom: 50px;
+ }
+ .my-plans-title{
+    text-align: center;
+ }
+ .my-plan-goals{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    gap: 20px;
+ }
+ .my-plan-goals-mini1{
+    background-image: url('../images/icons/web.png');
+    width: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: top;
+    text-align: center;
+ }
+ .my-plan-goals-mini2{
+    background-image: url('../images/icons/js.png');
+    width: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: top;
+    text-align:  center;
+ }
+ .my-plan-goals-mini3{
+    background-image: url('../images/icons/smoke.png');
+    width: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: top;
+    text-align: center;
+ }
+ .my-plan-goals-mini4{
+    background-image: url('../images/icons/ecom.png');
+    width: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: top;
+    text-align: center;
+ }
+ .my-plan-goals-title{
+    padding-top: 100px;
+    padding-bottom: 10px;
+ }
+
+ /* section two styles here  */
+ .my-plans-two{
+    display: flex;
+    vertical-align: center;
+    justify-content: center;
+ }
+ .my-plans-background{
+    width: 1202px;
+    height: 200px;
+    background-color: #444343;
+    background-image: url('../images/watch.png');
+    background-position: center;
+    background-size: cover;
+ }
