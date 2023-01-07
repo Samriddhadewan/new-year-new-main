@@ -147,6 +147,7 @@ button:hover{
     display: flex;
     vertical-align: center;
     justify-content: center;
+    margin-bottom: 150px;
  }
  .my-plans-background{
     width: 1202px;
@@ -156,3 +157,83 @@ button:hover{
     background-position: center;
     background-size: cover;
  }
+ .my-plans-background-title{
+    color: 
+    #FFFFFF;
+    padding: 25px 25px;
+ }
+ .btn-call{
+    background-color: #FFFFFF ;
+    border-radius: 5px;
+    color: #F15B22;
+    font-size: 25px;
+    font-weight: 600;
+    border: none;
+    margin-left: 20px;
+    padding: 20px 20px;
+ }
+ /* section last styles */
+ .last-section{
+    display: flex;
+    width: 100%;
+    height: 500px;
+    background-color: #151414;
+    vertical-align: center;
+    justify-content: middle;
+ }
+ .sub-last-section{
+    display: flex;
+    width: 50%;
+    height: 500px;
+    justify-content: center;
+
+ }
+ .sub-last-section2{
+    padding-top: 100px;
+    align-items: center;
+    padding-left: 80px;
+    display: block;
+ }
+ .sub-last-title{
+    color: 
+    #F8F8F8;
+    padding: 20px 0px;
+ }
+ .sub-last-describtion{
+    color: 
+    #FFFFFF;
+    padding-bottom: 20px;
+ }
+ .sub-last-email{
+    color: #FFFFFF;
+    padding-bottom: 20px;
+ }
+ .sub-last-phone{
+    color: #FFFFFF;
+ }
+.sub-last-title2{
+    color: #F8F8F8;
+    font-weight: 400;
+    font-size: 20px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.sub-email{
+    display: block;
+    border: solid 1px #FFFFFF ;
+    height: 40px;
+    background-color: #151414;
+    border-radius: 5px;
+    width: 250px;
+}
+.sub-button-sub{
+    background-color: #F8F8F8;
+    color: #F15B22;
+    font-size: 20px;
+    padding: 10px 15px;
+    margin-top: 20px;
+    border-radius: 5px;
+    font-weight: 500;
+
+
+}
